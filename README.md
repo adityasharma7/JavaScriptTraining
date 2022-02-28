@@ -1,1 +1,1 @@
-# JavaScriptTraining
+# Java Script Training
